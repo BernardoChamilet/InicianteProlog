@@ -1,0 +1,6 @@
+a)mulher(X)
+b)tioMae(X,bart)
+c)tioPai(X,bart)
+d)tioMae(X,bart),casal(Z,X)
+e)primoPai(bart,X)
+f)primoMae(bart,X)
